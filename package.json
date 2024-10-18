@@ -1,0 +1,19 @@
+{
+  "name": "voting-application",
+  "version": "1.0.0",
+  "description": "A full fledged backend appliction for voting",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reek004/Voting-Application.git"
+  },
+  "author": "Swarnabha-dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reek004/Voting-Application/issues"
+  },
+  "homepage": "https://github.com/reek004/Voting-Application#readme"
+}
